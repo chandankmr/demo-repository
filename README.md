@@ -1,2 +1,1 @@
-# demo-repository
-contains demo projects
+This repository contains sample projects mainly on microservices with spring
